@@ -1,0 +1,2 @@
+username: waistarek
+password: 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
