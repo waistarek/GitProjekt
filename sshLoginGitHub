@@ -1,0 +1,2 @@
+to log in github without email and the token, you go to the terminal on your pc and execute the command "ssh-keygen" to generate a public/private key. Then you have to copy the public key(by default the public key will be stored in /home/username/.ssh/id_rsa.pub) and go to setting in GitHub and then to Add SSH-Key.
+Then you have to go back to your terminal and execute the command "ssh -Tgit@github.com".
